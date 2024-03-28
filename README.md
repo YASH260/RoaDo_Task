@@ -1,6 +1,6 @@
 ## Running in dev environment
 
-1. `cd YOUR_APPLICATION`
+1. `cd RoaDo_Task`
 2. `npm install`
 3. `npm start`
 
