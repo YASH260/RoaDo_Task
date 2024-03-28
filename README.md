@@ -18,11 +18,11 @@
 │   ├── favicon.ico
 │   ├── index.html
 │   ├── manifest.json
-│   └── robots.txt
+│   
 ├── README.md
 ├── src
 │   ├── App.jsx
-│   ├── components --------- UI and Detected Common Components
+│   ├── components --------- UI and Common Components
 │   ├── constants ---------- Project constants
 │   ├── hooks -------------- Helpful Hooks
 │   ├── index.jsx
