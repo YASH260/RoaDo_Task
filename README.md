@@ -1,8 +1,7 @@
 ## Running in dev environment
 
-1. `cd RoaDo_Task`
-2. `npm install`
-3. `npm start`
+1. `npm install`
+2. `npm start`
 
 
 ## Folder Structure
